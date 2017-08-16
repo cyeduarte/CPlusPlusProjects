@@ -1,9 +1,3 @@
-//Christopher Eduarte
-//CSIS 135 
-//Spring 2012
-//Homework 6
-
-
 /*PSEUDOCODE:
 1. Declare userTicket and winningNums as function prototypes.
 2. Declare  variables select, select 2, select3, select4, select 5, select6
