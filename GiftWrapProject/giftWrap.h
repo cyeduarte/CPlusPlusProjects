@@ -1,4 +1,3 @@
-//Christopher Eduarte
 
 #ifndef GIFTWRAP_H
 #define GIFTWRAP_H
