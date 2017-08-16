@@ -1,8 +1,3 @@
-//Christopher Eduarte
-//CSIS 135
-//Spring 2012;
-//Homework 7
-
 #include "giftWrap.h"
 #include <iostream>
 #include <iomanip>
