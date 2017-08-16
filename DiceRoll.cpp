@@ -1,7 +1,5 @@
 //Christopher Eduarte
-//Spring 2012
-//CSIS 135
-//Homework 3
+
 /*Pseudocode:
 1. Declare the variables times and random number generations
 2. Ask the user how many times they would like to roll the dice.
