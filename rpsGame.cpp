@@ -1,9 +1,3 @@
-//Christopher Eduarte
-//Homework 4
-//CSIS 135
-//Spring 2012
-
-
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
