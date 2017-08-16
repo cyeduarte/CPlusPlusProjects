@@ -1,6 +1,3 @@
-//Christopher Eduarte//CSIS 137
-//Homework 4
-//CSIS 137
 
 #ifndef PACKAGE_H
 #define PACKAGE_H
