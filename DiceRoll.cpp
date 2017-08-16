@@ -1,4 +1,3 @@
-//Christopher Eduarte
 
 /*Pseudocode:
 1. Declare the variables times and random number generations
