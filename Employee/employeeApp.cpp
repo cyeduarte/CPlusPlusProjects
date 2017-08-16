@@ -1,5 +1,3 @@
-//Christopher
-
 #include <iostream>
 #include "Employee.h"
 #include <string>
