@@ -1,6 +1,4 @@
-//Christopher Eduarte
-// CSIS 135 
-//Homework 1 part 2
+
 #include <iostream>
 #include <iomanip>
 using namespace std; 
