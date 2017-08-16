@@ -1,4 +1,3 @@
-//Christopher Eduarte
 
 #include "OverNightPackage.h"
 #include "TwoDayPackage.h"
