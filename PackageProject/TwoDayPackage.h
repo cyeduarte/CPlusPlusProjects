@@ -1,6 +1,3 @@
-//Christopher Eduate
-//CSIS 137
-//Homework 4
 #ifndef TWODAYPACKAGE_H
 #define TWODAYPACKAGE_H
 
