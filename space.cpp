@@ -1,7 +1,3 @@
-//Christopher Eduarte
-//CSIS 135
-//Homework 2
-
 /*Pseudocode:
 1. Declare variables
 2. Display menu.
