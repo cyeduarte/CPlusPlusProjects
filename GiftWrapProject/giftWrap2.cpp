@@ -1,5 +1,4 @@
-//Christopher Eduarte
-             
+
 #include "giftWrap.h"
 #include <iostream>
 //using namespace std;
