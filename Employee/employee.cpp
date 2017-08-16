@@ -1,7 +1,3 @@
-//Christopher Eduarte
-//CSIS 135
-//Spring 2012;
-//Homeowrk 7
 #include "employee.h"
 //#include <iostream>
 #include <string>
