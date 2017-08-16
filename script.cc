@@ -1,6 +1,3 @@
-//Christopher Eduarte 
-// CSIS 135
-// Homework 1 part 3
 /*PSEUDOCODE:
 1. Output "Welcome to the LOST FORTURNE" onto the monitor".
 2. Output "Please answer the following questions for 
