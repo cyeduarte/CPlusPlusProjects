@@ -1,5 +1,3 @@
-//Christopher Eduarte
-
 #include "integerSets.h"
 #include <iostream>
 #include <malloc.h>
