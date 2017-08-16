@@ -1,5 +1,3 @@
-//Christopher Eduarte
-
 #ifndef INTEGERSETS_H
 #define INTEGERSETS_H
 #include <iostream>
